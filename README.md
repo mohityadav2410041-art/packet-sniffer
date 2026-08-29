@@ -95,7 +95,7 @@ Listening for incoming packets. Press Ctrl+C to stop.
 
 ```
 packet-sniffer/
-└── packet_sniffer.py   # Main script
+└── app.py   # Main script
 ```
 
 ## Limitations
